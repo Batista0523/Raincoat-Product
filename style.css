@@ -264,7 +264,7 @@
   
   
   
-  @media only screen and (max-width: 1200px) {
+  @media only screen and (max-width: 768px) {
     .card {
       flex-direction: column;
       height: auto;
@@ -281,4 +281,3 @@
       margin-top: 2rem;
     }
   }
-  
